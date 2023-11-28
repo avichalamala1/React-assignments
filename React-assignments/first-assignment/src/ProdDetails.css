@@ -1,0 +1,10 @@
+#div1
+{
+    border: 2px solid Blue;
+    border-radius : 10px;
+    width : 150px;
+    padding : 5px;
+    text-align: center;
+    float: left;
+    margin: 5px;
+}

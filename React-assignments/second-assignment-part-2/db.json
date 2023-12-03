@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "name": "Carrot",
+      "category": "Vegatables",
+      "unitprice": "90",
+      "id": "2"
+    },
+    {
+      "name": "Okra",
+      "quantity": "4",
+      "unitprice": "70",
+      "category": "Vegatables",
+      "id": "3"
+    },
+    {
+      "name": "Apple",
+      "category": "Fruit",
+      "unitprice": "100",
+      "quantity": 2,
+      "id": "dTCaYAy"
+    },
+    {
+      "name": "Tomato",
+      "category": "Vegatables",
+      "unitprice": "99",
+      "quantity": 2,
+      "id": "6bcGTpb"
+    }
+  ]
+}

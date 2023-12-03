@@ -8,8 +8,9 @@
     },
     {
       "name": "Okra",
+      "quantity": "4",
+      "unitprice": "70",
       "category": "Vegatables",
-      "unitprice": "80",
       "id": "3"
     },
     {
@@ -20,11 +21,11 @@
       "id": "dTCaYAy"
     },
     {
-      "name": "Apple",
-      "category": "Fruit",
-      "unitprice": "100",
+      "name": "Tomato",
+      "category": "Vegatables",
+      "unitprice": "99",
       "quantity": 2,
-      "id": "8Ud6Rtw"
+      "id": "6bcGTpb"
     }
   ]
 }
